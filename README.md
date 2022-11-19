@@ -1,6 +1,6 @@
 # Pattern Recognition
 
-This repository is hosting the solutions of the exercises for the course Pattern Recognition of National Technical University of Athens for the academic year 2020-2021. The score of these excersices was the highest (10/10) .
+This repository is hosting the solutions of the exercises for the course Pattern Recognition of National Technical University of Athens for the academic year 2021-2022. The score of these excersices was the highest (10/10) .
 
 
 * Handwritten Digit Recognition
